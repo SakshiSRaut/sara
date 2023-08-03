@@ -10,9 +10,14 @@ class base
     }
 };
 
+
+
 //adding file from local to remote
 
 int iNo1;
+
+
+//initializing variable
 iNo1=11;
 
 //adding comments in main file 
