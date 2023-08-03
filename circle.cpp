@@ -13,6 +13,10 @@ class base
 //adding file from local to remote
 
 int iNo1;
+
+
+
+
 iNo1=11;
 
 //adding comments in main file 
