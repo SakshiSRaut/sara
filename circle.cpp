@@ -15,8 +15,7 @@ class base
 int iNo1;
 
 
-
-
+//initializing variable
 iNo1=11;
 
 //adding comments in main file 
