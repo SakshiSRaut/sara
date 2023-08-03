@@ -41,15 +41,14 @@ int main()
     derived obj2;
     base obj3;
     base * dp =NULL; 
-
-
-
-
-
-
+    dp=&obj1;  
+    
+	dp->fun();
+    dp=&obj1;  
+    dp->fun();
     dp=&obj1;  
 	// funcntion call
     dp->fun();
     cout<<"inside main"<<endl;
-    cout<<"End Of  the Program"<<endl;
+    return 0;
 }
