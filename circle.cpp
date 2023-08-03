@@ -44,5 +44,5 @@ int main()
     dp=&obj1;  
     dp->fun();
     cout<<"inside main"<<endl;
-    
+    cout<<"End Of  the Program"<<endl;
 }
