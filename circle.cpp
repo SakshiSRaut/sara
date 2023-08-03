@@ -42,7 +42,11 @@ int main()
     base obj3;
     base * dp =NULL; 
     dp=&obj1;  
-    dp->fun();
+    
+	dp->fun();
+
+
+
     cout<<"inside main"<<endl;
     return 0;
 }
