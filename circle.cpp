@@ -44,9 +44,11 @@ int main()
     dp=&obj1;  
     
 	dp->fun();
-
-
-
+    dp=&obj1;  
+    dp->fun();
+    dp=&obj1;  
+	// funcntion call
+    dp->fun();
     cout<<"inside main"<<endl;
     return 0;
 }
